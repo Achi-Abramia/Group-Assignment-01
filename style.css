@@ -1,0 +1,10 @@
+header {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #081ff2;
+    padding-top: 60px;
+    transition: 0.5s;
+  }
+  
