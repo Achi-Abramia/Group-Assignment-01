@@ -12,22 +12,21 @@
   <body>
     <header>
       <div>
-        <div class="box"><img src="./images/logo.png" alt="company-logo" /></div>
-        <div class="box">Simple Analytics</div>
+        <div class="box"> <a href="index.html"><img src="./images/logo.png" alt="company-logo" /> </a></div>
       </div>
       <ul>
         <li> <a href="dashboard.html">
-          <img src="./images/dashboard.png" alt="dashboard-logo"/>Dashboard
+          <img src="./images/dashboard.png" alt="dashboard-logo"/ class="dashboard-icon"> <p class="dashboard">Dashboard </p> 
           </a>
         </li>
         <li><a href="setting.html">
-          <img src="./images/settings.png" alt="settings-logo"/>Settings
+          <img src="./images/settings.png" alt="settings-logo"/ class="setting-icon"> <p class="setting">Settings</p>
           </a>
         </li>
       </ul>
-      <div class="logout">
+      <div class="logout-box">
         <a href="index.html">
-          <img src="./images/logout.png" alt="logout-logo" />Logout
+          <img src="./images/logout.png" alt="logout-logo" class="logout-icon" /> <p class="logout">Logout</p> 
         </a>
       </div>
     </header>
@@ -36,8 +35,14 @@
         <h2>Settings</h2>
         <form>
           <div class="checkbox">
-            <label for="checkbox">Collect Data</label>
-            <input type="checkbox" name="collect data" id="collect data">
+            <div class="collect-checker">
+            <div class="collect-data">
+              <label for="checkbox">Collect Data</label>
+            </div>
+            <div class="checker">
+              <input type="checkbox" name="collect data" id="checkbox">
+            </div>
+            </div>
           </div>
           <div>
              <input type="email" name="email" placeholder="mail@example.com" id="email" class="email">
