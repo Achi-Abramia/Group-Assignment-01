@@ -85,8 +85,7 @@
       height: 54px;
       font-size: 36px;
       font-weight: 700;
-      line-height: 54px;         
-     
+      line-height: 54px;          
    }
 
    .text { 
@@ -95,7 +94,6 @@
     font-size: 12px;
     font-weight: 700;
     line-height: 18px;
-
    }
 
    .header-txt { 
@@ -133,20 +131,17 @@
     width: 800px;
     height: 45px;
     padding-top: 13px;
-  
    }
 
    .table-item { 
     padding-left: 40px;
     width: 210px;
- 
    }
 
    .table-number { 
     margin-left: 400px;
     padding-left: 150px;
     width: 40px;
-
    }
 
    .row div  { 
