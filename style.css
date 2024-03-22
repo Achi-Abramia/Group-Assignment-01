@@ -85,8 +85,7 @@
       height: 54px;
       font-size: 36px;
       font-weight: 700;
-      line-height: 54px;
-            
+      line-height: 54px;         
      
    }
 
@@ -97,9 +96,7 @@
     font-weight: 700;
     line-height: 18px;
 
-
    }
-
 
    .header-txt { 
     margin-left: 490px;
@@ -128,7 +125,6 @@
     font-weight: 700;
     line-height: 27px;
     color: #333333;
-
    }
 
    .row { 
@@ -166,10 +162,3 @@
     line-height: 27px;
     color: #333333;
    }
-
-
-
-   
-   
- 
-    
