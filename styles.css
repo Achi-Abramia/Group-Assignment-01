@@ -11,11 +11,11 @@ header {
     left: 0;
     background-color: #2F80ED;
   }
-.box{
+.box {
   margin-top: 50px;
   margin-left: 50px;
 }
-ul{
+ul {
     list-style: none;
     width: 156px;
     height: 16px;
@@ -40,7 +40,7 @@ ul {
   vertical-align: middle;
   display: inline-block;
 }
-.logout-box{
+.logout-box {
   margin-left: 50px;
   margin-top: 450px;
 }
@@ -48,19 +48,19 @@ a{
   text-decoration: none;
     color: #FFFFFF;
 }
-section{ 
+section { 
   size: 18px;
   line-height: 27px;
   margin-left:455px;
   margin-top: 65px;
 }
-h2{
+h2 {
   size: 24px;
   line-height: 36px;
   width: 102px;
   height: 36px;
 }
-.checkbox{
+.checkbox {
   text-align: center;
   margin-top:  80px;
   border:1px solid black;
@@ -70,26 +70,26 @@ h2{
 .collect-checker {
   margin-top: 12px;
 }
-.collect-data{
+.collect-data {
   vertical-align: middle;
   display: inline-block;
 }
-.checker{
+.checker {
   margin-left: 180px;
   vertical-align: middle;
   display: inline-block;
 }
-.email{
+.email {
   width: 300px;
   height: 50px;
   margin-top: 20px;
 }
-.password{
+.password {
   width: 300px;
   height: 50px;
   margin-top: 20px;
 }
-button{
+button {
   size: 24px;
   line-height: 36px;
   margin-top: 20px;
