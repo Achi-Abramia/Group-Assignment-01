@@ -127,12 +127,13 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 27px;
+    color: #333333;
 
    }
 
    .row { 
     margin-left: 490px;
-    border: 0.8px solid black;
+    border: 0.8px solid #BDBDBD;
     width: 800px;
     height: 45px;
     padding-top: 13px;
@@ -163,6 +164,7 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 27px;
+    color: #333333;
    }
 
 
