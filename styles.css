@@ -7,6 +7,11 @@ body {
     font-family: poppins;
 }
 
+a {
+    text-decoration: none;
+    color: initial;
+  }
+
 header {
     background-color: #2F80ED;
     height: 100%;
@@ -14,4 +19,30 @@ header {
     position: fixed;
     top: 0;
     left: 0;
+}
+
+.logo {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.signup-login {
+    margin-top: 150px;
+}
+
+.signup-login input {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    background-color: #333333;
+    color: #FFFFFF;
+    border: 1px solid #333333;
+    padding: 10px 40px;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 300px;
+    height: 60px;
+
+
 }
