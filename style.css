@@ -25,6 +25,8 @@ ul{
   }
 
 ul li {
+  line-height: 27px;
+  size: 18px;
   margin-top: 24px;
 }
 
@@ -51,13 +53,18 @@ a{
     color: #FFFFFF;
   }
 section{ 
+  size: 18px;
+  line-height: 27px;
   margin-left:455px;
   margin-top: 65px;
 }
 h2{
+  size: 24px;
+  line-height: 36px;
   width: 102px;
   height: 36px;
 }
+
 .checkbox{
   text-align: center;
   margin-top:  80px;
@@ -65,7 +72,8 @@ h2{
   width: 300px;
   height: 50px;
 }
-.collect-checker { 
+
+.collect-checker {
   margin-top: 15px;
 }
 .collect-data{
@@ -89,6 +97,8 @@ h2{
   margin-top: 20px;}
 
 button{
+  size: 24px;
+  line-height: 36px;
   margin-top: 20px;
   width: 150px;
   height: 75px;
