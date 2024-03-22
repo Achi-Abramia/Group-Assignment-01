@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: poppins;
+}
 
 header {
     background-color: #2F80ED;
@@ -11,10 +14,4 @@ header {
     position: fixed;
     top: 0;
     left: 0;
-}
-
-
-.logo {
-    margin-top: 70px;
-    margin-left: 50%;
 }
